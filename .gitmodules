@@ -1,0 +1,6 @@
+[submodule "atv-leandroc-saudacoes"]
+	path = atv-leandroc-saudacoes
+	url = https://github.com/srchby/atv-leandroc-saudacoes.git
+[submodule "atv-leandroc-navegacao"]
+	path = atv-leandroc-navegacao
+	url = https://github.com/srchby/atv-leandroc-navegacao.git
