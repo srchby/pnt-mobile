@@ -4,3 +4,6 @@
 [submodule "atv-leandroc-navegacao"]
 	path = atv-leandroc-navegacao
 	url = https://github.com/srchby/atv-leandroc-navegacao.git
+[submodule "atv-leandroc-perfil"]
+	path = atv-leandroc-perfil
+	url = https://github.com/srchby/atv-leandroc-perfil.git
